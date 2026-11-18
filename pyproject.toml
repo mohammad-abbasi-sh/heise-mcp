@@ -7,7 +7,7 @@ name = "heise-mcp"
 version = "0.1.0"
 description = "Unofficial read-only MCP server for heise.de — headlines, 7 sections, search, top stories, c't & article text via the official RSS feed"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "PolyForm-Noncommercial-1.0.0" }
 requires-python = ">=3.10"
 dependencies = [
     "mcp<2",
